@@ -1,2 +1,2 @@
 this is another file which created ptr1 branch
-
+ and added to master .After tht we again modifying the file in master
